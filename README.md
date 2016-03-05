@@ -1,5 +1,5 @@
 # spmd_ms
-school part development management
+School Party Member Development Management System
 
 学校党员发展管理系统
 
